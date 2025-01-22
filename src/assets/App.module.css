@@ -1,0 +1,28 @@
+.calculator{
+  border: 1px solid black;
+  width: 260px;
+  border-radius: 5px;
+}
+
+/* .display{
+  margin: 10px;
+  width: 170px;
+  font-weight: 25px;
+} */
+
+/* .buttonContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.buttons{
+  width: 45px;
+  height: 45px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+} */
